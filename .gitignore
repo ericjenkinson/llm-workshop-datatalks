@@ -196,3 +196,4 @@ cython_debug/
 # Qdrant Storage
 qdrant_storage
 =1.9.0
+workshops/dlt/db.qdrant
